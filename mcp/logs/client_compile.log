@@ -1,0 +1,42 @@
+src/minecraft/cpw/mods/fml/common/registry/GameRegistry.java:39: warning: [deprecation] cpw.mods.fml.common.IDispenseHandler in cpw.mods.fml.common has been deprecated
+import cpw.mods.fml.common.IDispenseHandler;
+                          ^
+src/minecraft/cpw/mods/fml/common/registry/GameRegistry.java:40: warning: [deprecation] cpw.mods.fml.common.IDispenserHandler in cpw.mods.fml.common has been deprecated
+import cpw.mods.fml.common.IDispenserHandler;
+                          ^
+src/minecraft/cpw/mods/fml/common/registry/GameRegistry.java:101: warning: [deprecation] cpw.mods.fml.common.IDispenserHandler in cpw.mods.fml.common has been deprecated
+    public static void registerDispenserHandler(IDispenserHandler handler)
+                                                ^
+src/minecraft/cpw/mods/fml/common/registry/GameRegistry.java:110: warning: [deprecation] cpw.mods.fml.common.IDispenseHandler in cpw.mods.fml.common has been deprecated
+    public static void registerDispenserHandler(final IDispenseHandler handler)
+                                                      ^
+src/minecraft/cpw/mods/fml/common/modloader/ModLoaderDispenseHelper.java:8: warning: [deprecation] cpw.mods.fml.common.IDispenseHandler in cpw.mods.fml.common has been deprecated
+import cpw.mods.fml.common.IDispenseHandler;
+                          ^
+src/minecraft/cpw/mods/fml/common/modloader/ModLoaderDispenseHelper.java:9: warning: [deprecation] cpw.mods.fml.common.IDispenserHandler in cpw.mods.fml.common has been deprecated
+import cpw.mods.fml.common.IDispenserHandler;
+                          ^
+src/minecraft/cpw/mods/fml/common/modloader/ModLoaderDispenseHelper.java:11: warning: [deprecation] cpw.mods.fml.common.IDispenserHandler in cpw.mods.fml.common has been deprecated
+public class ModLoaderDispenseHelper implements IDispenserHandler
+                                                ^
+src/minecraft/cpw/mods/fml/common/modloader/ModLoaderHelper.java:39: warning: [deprecation] cpw.mods.fml.common.IDispenseHandler in cpw.mods.fml.common has been deprecated
+import cpw.mods.fml.common.IDispenseHandler;
+                          ^
+src/minecraft/cpw/mods/fml/common/modloader/ModLoaderHelper.java:40: warning: [deprecation] cpw.mods.fml.common.IDispenserHandler in cpw.mods.fml.common has been deprecated
+import cpw.mods.fml.common.IDispenserHandler;
+                          ^
+src/minecraft/cpw/mods/fml/common/modloader/ModLoaderHelper.java:194: warning: [deprecation] cpw.mods.fml.common.IDispenserHandler in cpw.mods.fml.common has been deprecated
+    public static IDispenserHandler buildDispenseHelper(BaseModProxy mod)
+                  ^
+src/minecraft/cpw/mods/fml/common/modloader/ModLoaderModContainer.java:528: warning: [deprecation] registerDispenserHandler(cpw.mods.fml.common.IDispenserHandler) in cpw.mods.fml.common.registry.GameRegistry has been deprecated
+            GameRegistry.registerDispenserHandler(ModLoaderHelper.buildDispenseHelper(mod));
+                        ^
+src/minecraft/net/minecraft/src/ModLoader.java:638: warning: [deprecation] registerBlock(net.minecraft.block.Block) in cpw.mods.fml.common.registry.GameRegistry has been deprecated
+        GameRegistry.registerBlock(block);
+                    ^
+src/minecraft/net/minecraft/src/ModLoader.java:649: warning: [deprecation] registerBlock(net.minecraft.block.Block,java.lang.Class<? extends net.minecraft.item.ItemBlock>) in cpw.mods.fml.common.registry.GameRegistry has been deprecated
+        GameRegistry.registerBlock(block, itemclass);
+                    ^
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+13 warnings

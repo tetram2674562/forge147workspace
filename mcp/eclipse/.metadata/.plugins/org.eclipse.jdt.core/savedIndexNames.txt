@@ -1,0 +1,17 @@
+INDEX VERSION 1.134+/home/tetram26/Downloads/forge/mcp/eclipse/.metadata/.plugins/org.eclipse.jdt.core
+686200452.index
+4069914397.index
+3130428439.index
+208370467.index
+4052244830.index
+1627294015.index
+4119361658.index
+3825023205.index
+2797902560.index
+714336231.index
+1909201204.index
+1865797976.index
+2314611233.index
+1649027899.index
+2328740669.index
+2972868610.index
