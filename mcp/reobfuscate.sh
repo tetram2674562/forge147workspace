@@ -1,2 +1,2 @@
 #!/bin/bash
-python runtime/reobfuscate.py "$@"
+python2.7 runtime/reobfuscate.py "$@"
