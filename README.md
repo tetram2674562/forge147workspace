@@ -8,8 +8,10 @@ You'll need to have these package installed on your system :
 
 Here are a few easy steps in order to use the workspace :
 1) clone this repo
-```git clone https://github.com/tetram2674562/forge147workspace.git```
-2) open the folder /mcp/eclipse/ in eclipse 
+```
+git clone https://github.com/tetram2674562/forge147workspace.git
+```
+3) open the folder /mcp/eclipse/ in eclipse 
 
 ### Instructions in order to use it on windows are the following :
 You'll need to have these software installed on your system :
@@ -18,8 +20,10 @@ You'll need to have these software installed on your system :
 
 Here are a few easy steps in order to use the workspace :
 1) clone this repo
-```git clone https://github.com/tetram2674562/forge147workspace.git```
-2) open the folder /mcp/eclipse/ in eclipse 
+```
+git clone https://github.com/tetram2674562/forge147workspace.git
+```
+3) open the folder /mcp/eclipse/ in eclipse 
 
 If you have any issue with anything or any reclamation contact me on discord  : tetram26  
 
