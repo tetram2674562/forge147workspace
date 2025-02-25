@@ -1,5 +1,5 @@
 # forge147workspace
-A working / ready-to-use 1.4.7 workspace for forge mod developpement! (in 2023 :D)
+A working / ready-to-use 1.4.7 workspace for forge mod developpement! (in 2025 :D)
 ### Instructions in order to use it on linux are the following :
 You'll need to have these package installed on your system :
 - java6
