@@ -1,9 +1,10 @@
-# forge147workspace
+# Forge 1.4.7 Workspace
 A working / ready-to-use 1.4.7 workspace for forge mod developpement! (in 2025 :D)
+
 ### Instructions in order to use it on linux are the following :
 You'll need to have these package installed on your system :
-- java6
-- wine (DON'T INSTALL ASTYLE LINUX BUILD!)
+- java 6
+- wine (PLEASE DON'T INSTALL ASTYLE FOR LINUX IT WON'T WORK!)
 - python2.7 (yes... I know! That's a little bit old!)
 
 Here are a few easy steps in order to use the workspace :
